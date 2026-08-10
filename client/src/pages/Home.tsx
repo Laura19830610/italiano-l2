@@ -8,6 +8,7 @@ import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
 import CoursesSection from "@/components/CoursesSection";
 import ProposalsSection from "@/components/ProposalsSection";
+import InterculturalSection from "@/components/InterculturalSection";
 
 import CtaBanner from "@/components/CtaBanner";
 
@@ -22,6 +23,7 @@ export default function Home() {
       <AboutSection />
       <CoursesSection />
       <ProposalsSection />
+      <InterculturalSection />
       <CtaBanner />
 
       <ContactSection />
